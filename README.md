@@ -1,5 +1,8 @@
 # Team_3_Project
 
+To Do
+read in and clean data
+
 ## Team Members
 * Paige Curl
 * Kaila Person
