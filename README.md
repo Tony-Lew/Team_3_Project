@@ -1,7 +1,9 @@
 # Team_3_Project
 
-To Do
-read in and clean data
+* Read in data
+* clean data
+* fix commmas 
+
 
 ## Team Members
 * Paige Curl
