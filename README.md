@@ -3,6 +3,9 @@
 * Read in data
 * clean data
 * fix commmas 
+* put all salary to hourly
+* sort by rating
+* average salary by rating
 
 
 ## Team Members
