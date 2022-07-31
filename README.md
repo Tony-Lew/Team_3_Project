@@ -2,10 +2,12 @@
 
 * Read in data
 * clean data
-* fix commmas 
-* put all salary to hourly
-* sort by rating
-* average salary by rating
+* create 2 new csv files 
+* join the 2 csv files
+* seperate rideable_type
+* sort by rideable_type
+* create a machine learning type
+* create visualizations in tableau
 
 
 ## Team Members
