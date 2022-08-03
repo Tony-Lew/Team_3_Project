@@ -28,6 +28,9 @@ The chosen data file is too large to be uploaded into github. Team members are a
 2. Finding the data source named " 202111-citibike-tripdata.csv.zip", date modified "Apr 7th 2022, 12:18:06 pm" 
 3. Downloading the data source onto their computer/laptop.
 
+## Database
+Possible database to consider 'SQLite'(no application needed) or 'R'.
+
 ### Project Overview
 * Reason(s) why this topic was selected
 * Description of the dataset source
