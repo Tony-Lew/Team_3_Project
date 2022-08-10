@@ -36,4 +36,12 @@ The chosen data file is too large to be uploaded into github. Team members are a
 ## Database
 Possible database to consider 'SQLite'(no application needed) or 'R'
 
+### Confusion Matrix Summary:
+* "Pre" (Precision - the ratio of CORRECTLY predicted "positives" to the TOTAL number of "positives")
+* "Rec" (Recall aka True Positive Rate)
+* "Spe" (Specificity aka True Negative Rate)
+* "F1-Score" (Harmonic Mean of PRECISION & RECALL)
+* "Geo" (Geometric Mean - the square root of the product of RECALL & SPECIFICITY)
+* "IBA" (Index Balanced Accuracy)
+
 ### Results & Summary
