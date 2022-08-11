@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Team_3_Project
 
 <<<<<<< HEAD
@@ -13,6 +14,8 @@ In this group project we utilized many tools to allow us to reform our data. All
 * sklearn
 * hvplot
 
+=======
+>>>>>>> f279d37ccb54e924721984e82f7c909080f39d2e
 
 =======
 * Read in data
