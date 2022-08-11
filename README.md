@@ -1,5 +1,23 @@
+<<<<<<< HEAD
 # Team_3_Project
 
+<<<<<<< HEAD
+## Bikesharing Miles Traveled By Type
+
+In this group project we utilized many tools to allow us to reform our data. Allowing us to build a presentation that would break down the difference in the distance people traveled by the type of bike they chose.
+
+## Tools 
+* Jupyter Notebook
+* Python
+* Tableau
+* Haversine
+* sklearn
+* hvplot
+
+=======
+>>>>>>> f279d37ccb54e924721984e82f7c909080f39d2e
+
+=======
 * Read in data
 * clean data
 * create 2 new csv files 
@@ -45,3 +63,4 @@ Possible database to consider 'SQLite'(no application needed) or 'R'
 * "IBA" (Index Balanced Accuracy)
 
 ### Results & Summary
+>>>>>>> 12ba2ee44248ee5d76c623bdaf3e5e4cc39914b9
