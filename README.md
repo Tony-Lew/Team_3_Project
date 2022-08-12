@@ -44,4 +44,13 @@ Possible database to consider 'SQLite'(no application needed) or 'R'
 * "Geo" (Geometric Mean - the square root of the product of RECALL & SPECIFICITY)
 * "IBA" (Index Balanced Accuracy)
 
+![LogReg1](https://user-images.githubusercontent.com/99851509/184422908-678fdbcc-7c3c-4ad3-85f5-46814167f940.png)
+![LogReg2](https://user-images.githubusercontent.com/99851509/184422965-32514464-56b4-4917-8f68-9f2c0063e01e.png)
+
+### Decision Tree Matrix 
+![DecTree1](https://user-images.githubusercontent.com/99851509/184423079-a97b5a2f-0ea0-4bcc-9149-ef5ba89074e2.png)
+
+Part of the difficulty of Machine Learning models are questions we all ask when using them: which one should I use and why?  Trying to decide what we want the dataset to tell us and then deciding a classification model is enough to make your head spin.  In the dataset that we chose which was very large, we tried several different models of which some did not work because of the size of the dataset.  One in particular was the Random Forest model.  With over 2 million rows, it was not able to process this much information.  fortunately (see above) the Logistic Regression and Decision Tree models were able to process this large dataset.
+The primary difficulty we encountered was cleaning (pre-processing) this dataset as well.  This required the whole group's efforts and initiative to make this work.  The dataset being used was not the original dataset we chose.  That dataset also had elements in its features that were not compatible with machine learning model formats.  Changing datasets when we were about a week & a half into the project was decision faced with apprehension from everyong in the group.  We hope the above results show some of the range of knowledge gained from the workload from this course.
+
 ### Results & Summary
