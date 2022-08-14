@@ -56,3 +56,6 @@ The primary difficulty we encountered was cleaning (pre-processing) this dataset
 ### Results & Summary
 
 [Let's Go Ride A Bike](https://public.tableau.com/shared/QWTX7HCJH?:display_count=n&:origin=viz_share_link)
+![image](https://user-images.githubusercontent.com/101307058/184520575-252f3666-839b-454d-9d78-975194c81649.png)
+![image](https://user-images.githubusercontent.com/101307058/184520582-56915bcf-1687-4aef-99e8-465e57fafa78.png)
+
