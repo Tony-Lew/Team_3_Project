@@ -54,3 +54,5 @@ Part of the difficulty of Machine Learning models are questions we all ask when 
 The primary difficulty we encountered was cleaning (pre-processing) this dataset as well.  This required the whole group's efforts and initiative to make this work.  The dataset being used was not the original dataset we chose.  That dataset also had elements in its features that were not compatible with machine learning model formats.  Changing datasets when we were about a week & a half into the project was decision faced with apprehension from everyong in the group.  We hope the above results show some of the range of knowledge gained from the workload from this course.
 
 ### Results & Summary
+
+https://public.tableau.com/shared/QWTX7HCJH?:display_count=n&:origin=viz_share_link
