@@ -66,6 +66,10 @@ Electric bikes are used to travel almost twice as many miles as manual ones. Usi
 
 ![image](https://user-images.githubusercontent.com/101307058/184520582-56915bcf-1687-4aef-99e8-465e57fafa78.png)
 
+There is a clear preference for electric drive bikes by subscription members. There is also a marked diffeence in the distance traveled by those same members.
+
 ![image](https://user-images.githubusercontent.com/101307058/184785006-7a934d18-96cf-48f1-8166-a0f052b84a66.png)
+
+Some things that should be taken into account in regards to budgeting for new expansions should take into account the member type.
 
 ![image](https://user-images.githubusercontent.com/101307058/184785032-bdb043ef-5ec5-4f70-a8dd-763fcd470aa2.png)
