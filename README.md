@@ -54,8 +54,18 @@ Part of the difficulty of Machine Learning models are questions we all ask when 
 The primary difficulty we encountered was cleaning (pre-processing) this dataset as well.  This required the whole group's efforts and initiative to make this work.  The dataset being used was not the original dataset we chose.  That dataset also had elements in its features that were not compatible with machine learning model formats.  Changing datasets when we were about a week & a half into the project was decision faced with apprehension from everyong in the group.  We hope the above results show some of the range of knowledge gained from the workload from this course.
 
 ### Results & Summary
-
 [Let's Go Ride A Bike](https://public.tableau.com/shared/QWTX7HCJH?:display_count=n&:origin=viz_share_link)
+
+When to use and What to ride! A visual representation.
+
+There are clearly defined peak hours that correpond to useage despite subscription type. This allows for simplicity in scheduling maintenance staff, asset balancing staff and controlling costs due to payroll. 
+Members clearly prefer electric drive bikes to manual drive ones. The relative mix of drive types available should be adjusted for each area depending on the ratio of subscription members to casual users.
 ![image](https://user-images.githubusercontent.com/101307058/184520575-252f3666-839b-454d-9d78-975194c81649.png)
+
+Electric bikes are used to travel almost twice as many miles as manual ones. Using this fact along with the usage schedule, member type data and varying electric rates by time; we can plan out chargin times for the many batteries employed to minimize utility costs while maximizing convenience for our customers.
+
 ![image](https://user-images.githubusercontent.com/101307058/184520582-56915bcf-1687-4aef-99e8-465e57fafa78.png)
 
+![image](https://user-images.githubusercontent.com/101307058/184785006-7a934d18-96cf-48f1-8166-a0f052b84a66.png)
+
+![image](https://user-images.githubusercontent.com/101307058/184785032-bdb043ef-5ec5-4f70-a8dd-763fcd470aa2.png)
