@@ -71,3 +71,10 @@ Members clearly prefer electric drive bikes to manual drive ones. The relative m
 Electric bikes are used to travel almost twice as many miles as manual ones. Using this fact along with the usage schedule, member type data and varying electric rates by time; we can plan out chargin times for the many batteries employed to minimize utility costs while maximizing convenience for our customers.
 
 ![image](https://user-images.githubusercontent.com/101307058/184520582-56915bcf-1687-4aef-99e8-465e57fafa78.png)
+
+![image](https://user-images.githubusercontent.com/101307058/184785006-7a934d18-96cf-48f1-8166-a0f052b84a66.png)
+
+![image](https://user-images.githubusercontent.com/101307058/184785032-bdb043ef-5ec5-4f70-a8dd-763fcd470aa2.png)
+
+
+
