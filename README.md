@@ -34,6 +34,6 @@ The chosen data file is too large to be uploaded into github. Team members are a
 3. Downloading the data source onto their computer/laptop.
 
 ## Database
-Possible database to consider 'SQLite'(no application needed) or 'R'
+AWS
 
 ### Results & Summary
