@@ -61,5 +61,13 @@ Possible database to consider 'SQLite'(no application needed) or 'R'
 
 ### Results & Summary
 [Let's Go Ride A Bike](https://public.tableau.com/shared/QWTX7HCJH?:display_count=n&:origin=viz_share_link)
+
+When to use and What to ride! A visual representation.
+
+There are clearly defined peak hours that correpond to useage despite subscription type. This allows for simplicity in scheduling maintenance staff, asset balancing staff and controlling costs due to payroll. 
+Members clearly prefer electric drive bikes to manual drive ones. The relative mix of drive types available should be adjusted for each area depending on the ratio of subscription members to casual users.
 ![image](https://user-images.githubusercontent.com/101307058/184520575-252f3666-839b-454d-9d78-975194c81649.png)
+
+Electric bikes are used to travel almost twice as many miles as manual ones. Using this fact along with the usage schedule, member type data and varying electric rates by time; we can plan out chargin times for the many batteries employed to minimize utility costs while maximizing convenience for our customers.
+
 ![image](https://user-images.githubusercontent.com/101307058/184520582-56915bcf-1687-4aef-99e8-465e57fafa78.png)
