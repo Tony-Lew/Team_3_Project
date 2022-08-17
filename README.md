@@ -13,6 +13,9 @@
 - The data exploration phase of the project is determing if a machine learning model will answer our question. 
 - The data analysis phase of this project is testing different parts of our data to see if we can see any trends.
 - The languages used to do this project is jupyter notebook.
+- The result of the analysis showed that classic bikes were more popular among users than eletrical bikes.
+- Recommendation for future analyis would be to show the total trip duration for each ride type to show more accuracy amongst the data.
+- Together as team we can agree we would of chose a better data set that can better be used with machine learning. 
 
 - Google slides draft presentation: https://docs.google.com/presentation/d/1FqecNmbd_gwxxS7AX8PIOkSJ6fMpdwfDbjfoaA93WbU/edit?usp=sharing 
 
