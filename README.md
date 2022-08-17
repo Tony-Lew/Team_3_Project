@@ -14,6 +14,8 @@
 - The data analysis phase of this project is testing different parts of our data to see if we can see any trends.
 - The languages used to do this project is jupyter notebook.
 
+- Google slides draft presentation: https://docs.google.com/presentation/d/1FqecNmbd_gwxxS7AX8PIOkSJ6fMpdwfDbjfoaA93WbU/edit?usp=sharing 
+
 ## Reason for selected topic
 
 The reason we selected the topic is due to our familiarity with the topic and having a good source of data to explore questions within the topic.
