@@ -23,6 +23,7 @@
 - We hope the data answers the queston if classic or electric bikes are more popular among members, non-members, and casual riders.
 - The data exploration phase of the project is determing if a machine learning model will answer our question. 
 - The data analysis phase of this project is testing different parts of our data to see if we can see any trends.
+- The languages used to do this project is jupyter notebook.
 
 ## Reason for selected topic
 
