@@ -1,15 +1,4 @@
 # Team_3_Project
-## Citi Bikesharing 
-
-* Read in data
-* clean data
-* create 2 new csv files 
-* join the 2 csv files
-* separate rideable_type
-* sort by rideable_type
-* create a machine learning type
-* create visualizations in tableau
-
 
 ## Team Members
 * Paige Curl
