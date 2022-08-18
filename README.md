@@ -72,7 +72,7 @@ There are clearly defined peak hours that correpond to useage despite subscripti
 Members clearly prefer electric drive bikes to manual drive ones. The relative mix of drive types available should be adjusted for each area depending on the ratio of subscription members to casual users.
 ![image](https://user-images.githubusercontent.com/101307058/184520575-252f3666-839b-454d-9d78-975194c81649.png)
 
-Electric bikes are used to travel almost twice as many miles as manual ones. Using this fact along with the usage schedule, member type data and varying electric rates by time; we can plan out chargin times for the many batteries employed to minimize utility costs while maximizing convenience for our customers.
+Manual bikes are used to travel almost twice as many miles aselectic ones. Using this fact along with the usage schedule, member type data and varying electric rates by time; we can plan out chargin times for the many batteries employed to minimize utility costs while maximizing convenience for our customers.
 
 ![image](https://user-images.githubusercontent.com/101307058/185270342-32242132-29d9-4adf-8cb8-730a6b2d1f57.png)
 
