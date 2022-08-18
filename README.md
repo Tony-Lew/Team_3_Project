@@ -50,7 +50,7 @@ AWS
 * "IBA" (Index Balanced Accuracy)
 
 ![LogReg1](https://user-images.githubusercontent.com/99851509/184422908-678fdbcc-7c3c-4ad3-85f5-46814167f940.png)
-![LogReg2](https://user-images.githubusercontent.com/99851509/184422965-32514464-56b4-4917-8f68-9f2c0063e01e.png)
+![LogReg3](https://user-images.githubusercontent.com/99851509/185278577-48826f67-3c8d-45b2-a4e9-bc9ccc28ea21.png)
 
 ### Decision Tree Matrix 
 ![DecTree1](https://user-images.githubusercontent.com/99851509/184423079-a97b5a2f-0ea0-4bcc-9149-ef5ba89074e2.png)
