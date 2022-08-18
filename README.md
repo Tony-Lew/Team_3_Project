@@ -74,11 +74,11 @@ Members clearly prefer electric drive bikes to manual drive ones. The relative m
 
 Electric bikes are used to travel almost twice as many miles as manual ones. Using this fact along with the usage schedule, member type data and varying electric rates by time; we can plan out chargin times for the many batteries employed to minimize utility costs while maximizing convenience for our customers.
 
-![image](https://user-images.githubusercontent.com/101307058/184520582-56915bcf-1687-4aef-99e8-465e57fafa78.png)
+![image](https://user-images.githubusercontent.com/101307058/185270342-32242132-29d9-4adf-8cb8-730a6b2d1f57.png)
 
 There is a clear preference for electric drive bikes by subscription members. There is also a marked diffeence in the distance traveled by those same members.
 
-![image](https://user-images.githubusercontent.com/101307058/184785006-7a934d18-96cf-48f1-8166-a0f052b84a66.png)
+![image](https://user-images.githubusercontent.com/101307058/185270432-9c00537a-a998-4344-ba18-6db7bc219693.png)
 
 Some things that should be taken into account in regards to budgeting for new expansions should take into account the member type.
 
