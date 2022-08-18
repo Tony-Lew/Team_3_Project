@@ -41,7 +41,7 @@ In the process of cleaning the data we where able to utilize and/or try multiple
 ## Database
 AWS
 
-### Confusion Matrix Summary:
+## Confusion Matrix Summary:
 * "Pre" (Precision - the ratio of CORRECTLY predicted "positives" to the TOTAL number of "positives")
 * "Rec" (Recall aka True Positive Rate)
 * "Spe" (Specificity aka True Negative Rate)
